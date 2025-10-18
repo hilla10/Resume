@@ -13,7 +13,11 @@
   <strong>An AI-powered Online Resume Builder that helps users create, preview, share, and optimize professional resumes easily.</strong>
 </p>
 
-<p align="center"> <img src="https://via.placeholder.com/800x400?text=Home+Page" alt="Home Page" /> <img src="https://via.placeholder.com/800x400?text=Resume+Preview" alt="Resume Preview" /> <img src="https://via.placeholder.com/800x400?text=AI+Optimization" alt="AI Optimization" /> </p>
+<p align="center">
+  <img src="/home-page.png" alt="Home Page" width="400" />
+  <img src="/images/resume-preview.png" alt="Resume Preview" width="400" />
+  <img src="/ai-optimization.png" alt="AI Optimization" width="400" />
+</p>
 
 ---
 
