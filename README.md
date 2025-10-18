@@ -23,8 +23,13 @@
   <a href="https://resume-eta-swart.vercel.app/">
     <img src="frontend/public/images/ai-optimization.png" alt="AI Optimization" width="500" />
   </a>
+  
 </p>
-
+<p align="center">
+  <a href="https://resume-eta-swart.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-brightgreen" alt="Live Demo" width="200" />
+  </a>
+</p>
 
 ---
 
