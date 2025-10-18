@@ -1,11 +1,11 @@
 # 📝 Online Resume Builder
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/yourusername/online-resume-builder" alt="Repo Size" />
-  <img src="https://img.shields.io/github/languages/top/yourusername/online-resume-builder" alt="Top Language" />
-  <img src="https://img.shields.io/github/issues/yourusername/online-resume-builder" alt="Open Issues" />
-  <img src="https://img.shields.io/github/forks/yourusername/online-resume-builder" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/yourusername/online-resume-builder" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/hilla10/resume" alt="Repo Size" />
+  <img src="https://img.shields.io/github/languages/top/hilla10/resume" alt="Top Language" />
+  <img src="https://img.shields.io/github/issues/hilla10/resume" alt="Open Issues" />
+  <img src="https://img.shields.io/github/forks/hilla10/resume" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/hilla10/resume" alt="Stars" />
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License" />
 </p>
 
@@ -79,7 +79,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/online-resume-builder.git
+git clone https://github.com/hilla10/Resume.git
 cd online-resume-builder
 
 # Install frontend dependencies
