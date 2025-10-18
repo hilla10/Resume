@@ -14,11 +14,17 @@
 </p>
 
 <p align="center">
-  <img src="/home-page.png" alt="Home Page"  width="500"  />
-  <img src="/resume-preview.png" alt="Resume Preview"  width="500" />
-  <img src="/ai-optimization.png" alt="AI Optimization"  width="500" />
-  
+  <a href="https://resume-eta-swart.vercel.app/">
+    <img src="frontend/public/images/home-page.png" alt="Home Page" width="500" />
+  </a>
+  <a href="https://resume-eta-swart.vercel.app/">
+    <img src="frontend/public/images/resume-preview.png" alt="Resume Preview" width="500" />
+  </a>
+  <a href="https://resume-eta-swart.vercel.app/">
+    <img src="frontend/public/images/ai-optimization.png" alt="AI Optimization" width="500" />
+  </a>
 </p>
+
 
 ---
 
