@@ -1,0 +1,26 @@
+/* @import 'https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap'; */
+@import 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap';
+
+@import 'tailwindcss';
+
+* {
+  /* font-family: 'Outfit', sans-serif; */
+  font-family: 'Fira Code', monospace !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  button {
+    @apply cursor-pointer;
+  }
+
+  input:not([type='checkbox']) {
+    @apply outline-none focus:ring border border-gray-300 focus:ring-blue-500 focus:border-blue-500 rounded-lg;
+  }
+  textarea {
+    @apply outline-none focus:ring border border-gray-300 focus:ring-blue-500 focus:border-blue-500 rounded-lg resize-none;
+  }
+}
