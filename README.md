@@ -14,9 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="/home-page.png" alt="Home Page" width="400" />
-  <img src="/images/resume-preview.png" alt="Resume Preview" width="400" />
-  <img src="/ai-optimization.png" alt="AI Optimization" width="400" />
+  <img src="/home-page.png" alt="Home Page"  width="500"  />
+  <img src="/resume-preview.png" alt="Resume Preview"  width="500"  height="500" />
+  <img src="/ai-optimization.png" alt="AI Optimization"  width="500" height="500" />
+  
 </p>
 
 ---
