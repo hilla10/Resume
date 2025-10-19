@@ -125,6 +125,10 @@ const ResumeBuilder = () => {
 
       const { data } = await api.put('api/resumes/update', formData);
 
+      if (data.resume) {
+        setActiveSectionIndex((prev) => prev + 1);
+      }
+
       setResumeData(data.resume);
 
       toast.success(data.message);

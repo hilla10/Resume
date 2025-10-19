@@ -12,7 +12,6 @@ import toast from 'react-hot-toast';
 import pdfToText from 'react-pdftotext';
 import { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
-import { dummyResumeData } from '../assets/assets';
 import { useNavigate } from 'react-router-dom';
 import api from '../api/axios';
 

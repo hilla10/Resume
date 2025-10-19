@@ -6,6 +6,7 @@ import Login from './Login';
 
 const Layout = () => {
   const { user, loading } = useSelector((state) => state.auth);
+  console.log(user);
 
   if (loading) {
     return <Loader />;
