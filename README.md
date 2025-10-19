@@ -13,6 +13,10 @@
   <strong>An AI-powered Online Resume Builder that helps users create, preview, share, and optimize professional resumes easily.</strong>
 </p>
 
+## Video Demo
+Watch the website demo here: [Video Demo](https://www.loom.com/share/b9885f621c2e412d8df9e02859b53e23)
+
+
 <p align="center">
   <a href="https://resume-eta-swart.vercel.app/">
     <img src="frontend/public/images/home-page.png" alt="Home Page" width="500" />
